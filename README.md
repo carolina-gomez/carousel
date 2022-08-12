@@ -4,3 +4,5 @@
 - images container
 - imges with fixed width and - height index
 -  automatic switch index and update containr trandform property# carousel
+
+--**--
